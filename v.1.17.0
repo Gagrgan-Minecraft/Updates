@@ -1,0 +1,2 @@
+* Added: Command: /parties reset - Resets current party's area to it's original form.
+* Added: GRNscript element: particles - Show particles at location.
